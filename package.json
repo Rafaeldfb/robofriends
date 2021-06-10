@@ -1,0 +1,14 @@
+{
+  "name": "robofriends",
+  "version": "1.0.0",
+  "description": "('Study Project devolpment of a webapp made with reactJs, named RoboFriends')",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RafaelDFB",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
