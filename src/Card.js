@@ -1,12 +1,14 @@
 import React from 'react';
+import 'tachyons';
 
-const Card = (props) => {
+const Card = ({name, mailAdress, id}) => {
+
     return (
-        <div>
+        <div className='tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>
+            <img alt='Robots'src={`https://robohash.org/${id}?200x200`}/>
             <div>
-            <img alt='Robots'src={props.robo_url}/>
-                <h2>{props.name}</h2>
-                <p>{props.mailAdress}</p>
+                <h2>{name}</h2>
+                <p>{mailAdress}</p>
             </div>
         </div>
     );
