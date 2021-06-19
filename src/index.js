@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
 import  'tachyons';
+import './index.css';
 
 ReactDOM.render(
-  <div>
+  <div className='body'>
       <App/>
   </div>,
   document.getElementById('root')
