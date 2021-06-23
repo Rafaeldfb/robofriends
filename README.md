@@ -1,3 +1,27 @@
+# Hello, thanks for your interest in supporting this project, or just your curiosity spent here.
+
+This is a small project of a simple webapp made up with NodeJs, Yarn, React.js, CSS. HTML and JavaScript, with only for studies purposes.
+
+At ./src you can find, as espected, all file's components and, at side of package.json, you'll be able to reconstruct all structures and then run yourself as you wish.
+
+The original concept has been implemented along my course at udemy, and some modifications as ''yarn over npm'' was done.
+
+Well, this is my first public readme file, so uhhhhuuuuuu! And excuse me for the lazy format. ;)
+
+then... above are the Create React App's default redme text.
+
+
+
+
+
+
+######      EOF      ######
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
